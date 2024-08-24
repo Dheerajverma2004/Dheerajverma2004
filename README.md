@@ -11,8 +11,8 @@ I'm a passionate web developer with a strong commitment to open source software.
 My expertise lies in front-end and working on back-end web development. I'm well-versed in a variety of technologies, including:
 
 - **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** Node.js, Svelte
-- **Databases:** MySQL
+- **Back-End:** Node.js, React ,Svelte
+- **Databases:** MySQL , MongoDB
 - **Version Control:** Git, GitHub
 
 I love working on projects that challenge my problem-solving skills and allow me to experiment with the latest web technologies. Creating responsive and accessible web applications that provide delightful user experiences is my ultimate goal.
